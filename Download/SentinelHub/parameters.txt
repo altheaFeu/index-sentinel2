@@ -1,0 +1,3 @@
+Your SentinelHub instance ID
+Your OAuth client ID
+Your OAuth client secret
